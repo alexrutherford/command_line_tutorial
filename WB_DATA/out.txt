@@ -1,0 +1,237 @@
+"Population, total"	SP.POP.TOTL	Afghanistan	AFG	25950816	34385068
+"Population, total"	SP.POP.TOTL	Albania	ALB	3071856	3204284
+"Population, total"	SP.POP.TOTL	Algeria	DZA	30533827	35468208
+"Population, total"	SP.POP.TOTL	American Samoa	ASM	57625	68420
+"Population, total"	SP.POP.TOTL	Andorra	ADO	64634	84864
+"Population, total"	SP.POP.TOTL	Angola	AGO	13926373	19081912
+"Population, total"	SP.POP.TOTL	Antigua and Barbuda	ATG	77656	88710
+"Population, total"	SP.POP.TOTL	Arab World	ARB	278744935	347672135
+"Population, total"	SP.POP.TOTL	Argentina	ARG	36930709	40412376
+"Population, total"	SP.POP.TOTL	Armenia	ARM	3076098	3092072
+"Population, total"	SP.POP.TOTL	Aruba	ABW	90271	107488
+"Population, total"	SP.POP.TOTL	Australia	AUS	19153000	22299800
+"Population, total"	SP.POP.TOTL	Austria	AUT	8011566	8389771
+"Population, total"	SP.POP.TOTL	Azerbaijan	AZE	8048600	9054332
+"Population, total"	SP.POP.TOTL	"Bahamas, The"	BHS	297651	342877
+"Population, total"	SP.POP.TOTL	Bahrain	BHR	638193	1261835
+"Population, total"	SP.POP.TOTL	Bangladesh	BGD	129592275	148692131
+"Population, total"	SP.POP.TOTL	Barbados	BRB	267511	273331
+"Population, total"	SP.POP.TOTL	Belarus	BLR	10005000	9490000
+"Population, total"	SP.POP.TOTL	Belgium	BEL	10251250	10895785
+"Population, total"	SP.POP.TOTL	Belize	BLZ	249800	344700
+"Population, total"	SP.POP.TOTL	Benin	BEN	6517810	8849892
+"Population, total"	SP.POP.TOTL	Bermuda	BMU	62100	64237
+"Population, total"	SP.POP.TOTL	Bhutan	BTN	571262	725940
+"Population, total"	SP.POP.TOTL	Bolivia	BOL	8307248	9929849
+"Population, total"	SP.POP.TOTL	Bosnia and Herzegovina	BIH	3693698	3760149
+"Population, total"	SP.POP.TOTL	Botswana	BWA	1757925	2006945
+"Population, total"	SP.POP.TOTL	Brazil	BRA	174425387	194946470
+"Population, total"	SP.POP.TOTL	Brunei Darussalam	BRN	327036	398920
+"Population, total"	SP.POP.TOTL	Bulgaria	BGR	8170172	7534289
+"Population, total"	SP.POP.TOTL	Burkina Faso	BFA	12294012	16468714
+"Population, total"	SP.POP.TOTL	Burundi	BDI	6374347	8382849
+"Population, total"	SP.POP.TOTL	Cambodia	KHM	12446949	14138255
+"Population, total"	SP.POP.TOTL	Cameroon	CMR	15678269	19598889
+"Population, total"	SP.POP.TOTL	Canada	CAN	30769700	34126181
+"Population, total"	SP.POP.TOTL	Cape Verde	CPV	437238	495999
+"Population, total"	SP.POP.TOTL	Cayman Islands	CYM	40195	56230
+"Population, total"	SP.POP.TOTL	Central African Republic	CAF	3701607	4401051
+"Population, total"	SP.POP.TOTL	Chad	TCD	8222327	11227208
+"Population, total"	SP.POP.TOTL	Channel Islands	CHI	145330	153352
+"Population, total"	SP.POP.TOTL	Chile	CHL	15419820	17113688
+"Population, total"	SP.POP.TOTL	China	CHN	1262645000	1337825000
+"Population, total"	SP.POP.TOTL	Colombia	COL	39764166	46294841
+"Population, total"	SP.POP.TOTL	Comoros	COM	562469	734750
+"Population, total"	SP.POP.TOTL	"Congo, Dem. Rep."	ZAR	49626200	65965795
+"Population, total"	SP.POP.TOTL	"Congo, Rep."	COG	3135773	4042899
+"Population, total"	SP.POP.TOTL	Costa Rica	CRI	3919180	4658887
+"Population, total"	SP.POP.TOTL	Cote d'Ivoire	CIV	16581653	19737800
+"Population, total"	SP.POP.TOTL	Croatia	HRV	4426000	4418000
+"Population, total"	SP.POP.TOTL	Cuba	CUB	11104313	11257979
+"Population, total"	SP.POP.TOTL	Cyprus	CYP	943294	1103647
+"Population, total"	SP.POP.TOTL	Czech Republic	CZE	10272322	10519792
+"Population, total"	SP.POP.TOTL	Denmark	DNK	5339616	5547683
+"Population, total"	SP.POP.TOTL	Djibouti	DJI	731930	888716
+"Population, total"	SP.POP.TOTL	Dominica	DMA	69672	67757
+"Population, total"	SP.POP.TOTL	Dominican Republic	DOM	8591967	9927320
+"Population, total"	SP.POP.TOTL	East Asia & Pacific (all income levels)	EAS	2044996222	2201613485
+"Population, total"	SP.POP.TOTL	East Asia & Pacific (developing only)	EAP	1813796742	1961101773
+"Population, total"	SP.POP.TOTL	Ecuador	ECU	12345023	14464739
+"Population, total"	SP.POP.TOTL	"Egypt, Arab Rep."	EGY	67648419	81121077
+"Population, total"	SP.POP.TOTL	El Salvador	SLV	5940305	6192993
+"Population, total"	SP.POP.TOTL	Equatorial Guinea	GNQ	520380	700401
+"Population, total"	SP.POP.TOTL	Eritrea	ERI	3667576	5253676
+"Population, total"	SP.POP.TOTL	Estonia	EST	1369515	1340161
+"Population, total"	SP.POP.TOTL	Ethiopia	ETH	65577897	82949541
+"Population, total"	SP.POP.TOTL	Euro area	EMU	315148901	331943805
+"Population, total"	SP.POP.TOTL	Europe & Central Asia (all income levels)	ECS	862185113.6	891039428
+"Population, total"	SP.POP.TOTL	Europe & Central Asia (developing only)	ECA	398510208.6	405670230
+"Population, total"	SP.POP.TOTL	European Union	EUU	483675854	502302566
+"Population, total"	SP.POP.TOTL	Faeroe Islands	FRO	45743	48708
+"Population, total"	SP.POP.TOTL	Fiji	FJI	811718	860623
+"Population, total"	SP.POP.TOTL	Finland	FIN	5176209	5363352
+"Population, total"	SP.POP.TOTL	France	FRA	60910922	65075569
+"Population, total"	SP.POP.TOTL	French Polynesia	PYF	237638	270764
+"Population, total"	SP.POP.TOTL	Gabon	GAB	1235274	1505463
+"Population, total"	SP.POP.TOTL	"Gambia, The"	GMB	1297084	1728394
+"Population, total"	SP.POP.TOTL	Georgia	GEO	4418300	4452800
+"Population, total"	SP.POP.TOTL	Germany	DEU	82211508	81776930
+"Population, total"	SP.POP.TOTL	Ghana	GHA	19165490	24391823
+"Population, total"	SP.POP.TOTL	Greece	GRC	10917482	11315508
+"Population, total"	SP.POP.TOTL	Greenland	GRL	56200	56533
+"Population, total"	SP.POP.TOTL	Grenada	GRD	101522	104487
+"Population, total"	SP.POP.TOTL	Guam	GUM	155147	179896
+"Population, total"	SP.POP.TOTL	Guatemala	GTM	11237101	14388929
+"Population, total"	SP.POP.TOTL	Guinea	GIN	8344486	9981590
+"Population, total"	SP.POP.TOTL	Guinea-Bissau	GNB	1240655	1515224
+"Population, total"	SP.POP.TOTL	Guyana	GUY	733101	754493
+"Population, total"	SP.POP.TOTL	Haiti	HTI	8645371	9993247
+"Population, total"	SP.POP.TOTL	Heavily indebted poor countries (HIPC)	HPC	479507602	620267812
+"Population, total"	SP.POP.TOTL	High income	HIC	1049735057	1127916328
+"Population, total"	SP.POP.TOTL	High income: nonOECD	NOC	75803291	93970547
+"Population, total"	SP.POP.TOTL	High income: OECD	OEC	973931766	1033945781
+"Population, total"	SP.POP.TOTL	Honduras	HND	6218151	7600524
+"Population, total"	SP.POP.TOTL	"Hong Kong SAR, China"	HKG	6665000	7067800
+"Population, total"	SP.POP.TOTL	Hungary	HUN	10210971	10000023
+"Population, total"	SP.POP.TOTL	Iceland	ISL	281205	318041
+"Population, total"	SP.POP.TOTL	India	IND	1053898107	1224614327
+"Population, total"	SP.POP.TOTL	Indonesia	IDN	213395411	239870937
+"Population, total"	SP.POP.TOTL	"Iran, Islamic Rep."	IRN	65342319	73973630
+"Population, total"	SP.POP.TOTL	Iraq	IRQ	24313641	32030823
+"Population, total"	SP.POP.TOTL	Ireland	IRL	3805174	4474356
+"Population, total"	SP.POP.TOTL	Isle of Man	IMY	76803	82869
+"Population, total"	SP.POP.TOTL	Israel	ISR	6289000	7623600
+"Population, total"	SP.POP.TOTL	Italy	ITA	56942108	60483385
+"Population, total"	SP.POP.TOTL	Jamaica	JAM	2589388.551	2702300
+"Population, total"	SP.POP.TOTL	Japan	JPN	126870000	127450459
+"Population, total"	SP.POP.TOTL	Jordan	JOR	4797500	6047000
+"Population, total"	SP.POP.TOTL	Kazakhstan	KAZ	14883626	16323287
+"Population, total"	SP.POP.TOTL	Kenya	KEN	31253701	40512682
+"Population, total"	SP.POP.TOTL	Kiribati	KIR	84010	99546
+"Population, total"	SP.POP.TOTL	"Korea, Dem. Rep."	PRK	22894095	24346229
+"Population, total"	SP.POP.TOTL	"Korea, Rep."	KOR	47008000	49410000
+"Population, total"	SP.POP.TOTL	Kosovo	KSV	1700000	1775680
+"Population, total"	SP.POP.TOTL	Kuwait	KWT	1940786	2736732
+"Population, total"	SP.POP.TOTL	Kyrgyz Republic	KGZ	4898400	5447900
+"Population, total"	SP.POP.TOTL	Lao PDR	LAO	5317060	6200894
+"Population, total"	SP.POP.TOTL	Latin America & Caribbean (all income levels)	LCN	520370163	588757676
+"Population, total"	SP.POP.TOTL	Latin America & Caribbean (developing only)	LAC	514207311	582501932
+"Population, total"	SP.POP.TOTL	Latvia	LVA	2372985	2239008
+"Population, total"	SP.POP.TOTL	Least developed countries: UN classification	LDC	658459645	825210584
+"Population, total"	SP.POP.TOTL	Lebanon	LBN	3742329	4227597
+"Population, total"	SP.POP.TOTL	Lesotho	LSO	1963878	2171318
+"Population, total"	SP.POP.TOTL	Liberia	LBR	2847290	3994122
+"Population, total"	SP.POP.TOTL	Libya	LBY	5231189	6355112
+"Population, total"	SP.POP.TOTL	Liechtenstein	LIE	32853	36032
+"Population, total"	SP.POP.TOTL	Lithuania	LTU	3499536	3286820
+"Population, total"	SP.POP.TOTL	Low & middle income	LMY	5068396105	5766461466
+"Population, total"	SP.POP.TOTL	Low income	LIC	646335366	799803865
+"Population, total"	SP.POP.TOTL	Lower middle income	LMC	2129026367	2494159560
+"Population, total"	SP.POP.TOTL	Luxembourg	LUX	436300	506953
+"Population, total"	SP.POP.TOTL	"Macao SAR, China"	MAC	431867	543656
+"Population, total"	SP.POP.TOTL	"Macedonia, FYR"	MKD	2009091	2060563
+"Population, total"	SP.POP.TOTL	Madagascar	MDG	15364272	20713819
+"Population, total"	SP.POP.TOTL	Malawi	MWI	11228756	14900841
+"Population, total"	SP.POP.TOTL	Malaysia	MYS	23414909	28401017
+"Population, total"	SP.POP.TOTL	Maldives	MDV	273236	315885
+"Population, total"	SP.POP.TOTL	Mali	MLI	11295324	15369809
+"Population, total"	SP.POP.TOTL	Malta	MLT	381363	415995
+"Population, total"	SP.POP.TOTL	Marshall Islands	MHL	52145	54038
+"Population, total"	SP.POP.TOTL	Mauritania	MRT	2642743	3459773
+"Population, total"	SP.POP.TOTL	Mauritius	MUS	1186873	1280924
+"Population, total"	SP.POP.TOTL	Mexico	MEX	99959594	113423047
+"Population, total"	SP.POP.TOTL	"Micronesia, Fed. Sts."	FSM	107103	111064
+"Population, total"	SP.POP.TOTL	Middle East & North Africa (all income levels)	MEA	312596989	382556328
+"Population, total"	SP.POP.TOTL	Middle East & North Africa (developing only)	MNA	277413760	331017162
+"Population, total"	SP.POP.TOTL	Middle income	MIC	4422060739	4966657601
+"Population, total"	SP.POP.TOTL	Moldova	MDA	3639588	3562062
+"Population, total"	SP.POP.TOTL	Monaco	MCO	35126	35407
+"Population, total"	SP.POP.TOTL	Mongolia	MNG	2411369	2756001
+"Population, total"	SP.POP.TOTL	Montenegro	MNE	632606	631490
+"Population, total"	SP.POP.TOTL	Morocco	MAR	28793236	31951412
+"Population, total"	SP.POP.TOTL	Mozambique	MOZ	18200656	23390765
+"Population, total"	SP.POP.TOTL	Myanmar	MMR	44957660	47963012
+"Population, total"	SP.POP.TOTL	Namibia	NAM	1895839	2283289
+"Population, total"	SP.POP.TOTL	Nepal	NPL	24400606	29959364
+"Population, total"	SP.POP.TOTL	Netherlands	NLD	15925513	16615394
+"Population, total"	SP.POP.TOTL	New Caledonia	NCL	213230	247000
+"Population, total"	SP.POP.TOTL	New Zealand	NZL	3857700	4367800
+"Population, total"	SP.POP.TOTL	Nicaragua	NIC	5073704	5788163
+"Population, total"	SP.POP.TOTL	Niger	NER	10922421	15511953
+"Population, total"	SP.POP.TOTL	Nigeria	NGA	123688536	158423182
+"Population, total"	SP.POP.TOTL	North America	NAC	312994211	343540107
+"Population, total"	SP.POP.TOTL	Northern Mariana Islands	MNP	68432	60917
+"Population, total"	SP.POP.TOTL	Norway	NOR	4490967	4889252
+"Population, total"	SP.POP.TOTL	OECD members	OED	1152939042	1237234841
+"Population, total"	SP.POP.TOTL	Oman	OMN	2264163	2782435
+"Population, total"	SP.POP.TOTL	Pakistan	PAK	144522192	173593383
+"Population, total"	SP.POP.TOTL	Palau	PLW	19172	20472
+"Population, total"	SP.POP.TOTL	Panama	PAN	2956126	3516820
+"Population, total"	SP.POP.TOTL	Papua New Guinea	PNG	5378824	6858266
+"Population, total"	SP.POP.TOTL	Paraguay	PRY	5343539	6454548
+"Population, total"	SP.POP.TOTL	Peru	PER	25861887	29076512
+"Population, total"	SP.POP.TOTL	Philippines	PHL	77309965	93260798
+"Population, total"	SP.POP.TOTL	Poland	POL	38453757	38183683
+"Population, total"	SP.POP.TOTL	Portugal	PRT	10225836	10637346
+"Population, total"	SP.POP.TOTL	Puerto Rico	PRI	3810605	3721978
+"Population, total"	SP.POP.TOTL	Qatar	QAT	590957	1758793
+"Population, total"	SP.POP.TOTL	Romania	ROM	22442971	21438001
+"Population, total"	SP.POP.TOTL	Russian Federation	RUS	146303000	141920000
+"Population, total"	SP.POP.TOTL	Rwanda	RWA	8098344	10624005
+"Population, total"	SP.POP.TOTL	Samoa	WSM	176549	183081
+"Population, total"	SP.POP.TOTL	San Marino	SMR	26967	31534
+"Population, total"	SP.POP.TOTL	Sao Tome and Principe	STP	141010	165397
+"Population, total"	SP.POP.TOTL	Saudi Arabia	SAU	20045276	27448086
+"Population, total"	SP.POP.TOTL	Senegal	SEN	9505862	12433728
+"Population, total"	SP.POP.TOTL	Serbia	SRB	7516346	7291436
+"Population, total"	SP.POP.TOTL	Seychelles	SYC	81131	86525
+"Population, total"	SP.POP.TOTL	Sierra Leone	SLE	4143115	5867536
+"Population, total"	SP.POP.TOTL	Singapore	SGP	4027900	5076700
+"Population, total"	SP.POP.TOTL	Slovak Republic	SVK	5388720	5430099
+"Population, total"	SP.POP.TOTL	Slovenia	SVN	1988925	2048583
+"Population, total"	SP.POP.TOTL	Solomon Islands	SLB	408732	538148
+"Population, total"	SP.POP.TOTL	Somalia	SOM	7399033	9330872
+"Population, total"	SP.POP.TOTL	South Africa	ZAF	44000000	49991300
+"Population, total"	SP.POP.TOTL	South Asia	SAS	1398310494	1632939098
+"Population, total"	SP.POP.TOTL	Spain	ESP	40263216	46070971
+"Population, total"	SP.POP.TOTL	Sri Lanka	LKA	19102000	20653000
+"Population, total"	SP.POP.TOTL	St. Kitts and Nevis	KNA	44286	52402
+"Population, total"	SP.POP.TOTL	St. Lucia	LCA	155996	174000
+"Population, total"	SP.POP.TOTL	St. Vincent and the Grenadines	VCT	107891	109333
+"Population, total"	SP.POP.TOTL	Sub-Saharan Africa (all income levels)	SSF	666677969	853931672
+"Population, total"	SP.POP.TOTL	Sub-Saharan Africa (developing only)	SSA	666157589	853231271
+"Population, total"	SP.POP.TOTL	Sudan	SDN	27556383	33603637
+"Population, total"	SP.POP.TOTL	Suriname	SUR	466846	524636
+"Population, total"	SP.POP.TOTL	Swaziland	SWZ	1010787	1055506
+"Population, total"	SP.POP.TOTL	Sweden	SWE	8872109	9378126
+"Population, total"	SP.POP.TOTL	Switzerland	CHE	7184250	7826153
+"Population, total"	SP.POP.TOTL	Syrian Arab Republic	SYR	15988534	20446609
+"Population, total"	SP.POP.TOTL	Tajikistan	TJK	6172807	6878637
+"Population, total"	SP.POP.TOTL	Tanzania	TZA	34038161	44841226
+"Population, total"	SP.POP.TOTL	Thailand	THA	63155029	69122234
+"Population, total"	SP.POP.TOTL	Timor-Leste	TMP	830089	1142502
+"Population, total"	SP.POP.TOTL	Togo	TGO	4793504	6027798
+"Population, total"	SP.POP.TOTL	Tonga	TON	97935	104058
+"Population, total"	SP.POP.TOTL	Trinidad and Tobago	TTO	1292058	1341465
+"Population, total"	SP.POP.TOTL	Tunisia	TUN	9563500	10549100
+"Population, total"	SP.POP.TOTL	Turkey	TUR	63627862	72752325
+"Population, total"	SP.POP.TOTL	Turkmenistan	TKM	4501419	5041995
+"Population, total"	SP.POP.TOTL	Turks and Caicos Islands	TCA	18873	38354
+"Population, total"	SP.POP.TOTL	Tuvalu	TUV	9419	9827
+"Population, total"	SP.POP.TOTL	Uganda	UGA	24213120	33424683
+"Population, total"	SP.POP.TOTL	Ukraine	UKR	49175847.64	45870700
+"Population, total"	SP.POP.TOTL	United Arab Emirates	ARE	3033491	7511690
+"Population, total"	SP.POP.TOTL	United Kingdom	GBR	58892514	62231336
+"Population, total"	SP.POP.TOTL	United States	USA	282162411	309349689
+"Population, total"	SP.POP.TOTL	Upper middle income	UMC	2293034372	2472498041
+"Population, total"	SP.POP.TOTL	Uruguay	URY	3300847.408	3356584
+"Population, total"	SP.POP.TOTL	Uzbekistan	UZB	24650400	28562400
+"Population, total"	SP.POP.TOTL	Vanuatu	VUT	185074	239651
+"Population, total"	SP.POP.TOTL	"Venezuela, RB"	VEN	24311000	28834000
+"Population, total"	SP.POP.TOTL	Vietnam	VNM	77630900	86927700
+"Population, total"	SP.POP.TOTL	Virgin Islands (U.S.)	VIR	108639	109750
+"Population, total"	SP.POP.TOTL	West Bank and Gaza	WBG	3004150	3905364
+"Population, total"	SP.POP.TOTL	World	WLD	6118131162	6894377794
+"Population, total"	SP.POP.TOTL	"Yemen, Rep."	YEM	17723186	24052514
+"Population, total"	SP.POP.TOTL	Zambia	ZMB	10201562	12926409
+"Population, total"	SP.POP.TOTL	Zimbabwe	ZWE	12509477	12571454
